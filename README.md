@@ -54,6 +54,7 @@ Go 语言学习资料与社区索引
 	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
 	- [gorm](https://github.com/jinzhu/gorm): 全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
+	- [gosql](https://github.com/rushteam/gosql):  gosql 一款全新ORM go-style风格、轻量、简单、强大 支持 MySQL
 - 辅助站点：
 	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
@@ -98,6 +99,7 @@ Go 语言学习资料与社区索引
 	- [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 	- [《Go语言学习笔记》](https://github.com/qyuhen/book)
+	- [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - 翻译：
 	- [Effective Go](https://golang.org/doc/effective_go.html) 英文版
 	- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN) 中文版
@@ -113,6 +115,7 @@ Go 语言学习资料与社区索引
 - 文档：
 	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
 	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
+	- [Uber Go Guide](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范
 	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
 	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
 	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
@@ -125,6 +128,7 @@ Go 语言学习资料与社区索引
 	- [Mastering Concurrency in Go(July 2014)Nathan Kozyra](https://www.packtpub.com/application-development/mastering-concurrency-go)
 	- [Go Programming Blueprints(January 23,2015)](https://www.packtpub.com/application-development/go-programming-blueprints)
 	- [The Go Programming Language(Published Oct 30, 2015,Not Yet Published)](http://www.gopl.io/)
+	- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ### 视频资料
 
